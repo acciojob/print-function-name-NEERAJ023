@@ -1,9 +1,9 @@
 //your JS code here. If required.
- function functionName{
+ function functionName(){
 	 alert(arguments.callee.name);
  }
 
-function AccioJob{
+function AccioJob(){
 	 alert(arguments.callee.name);
  }
 functionName();
